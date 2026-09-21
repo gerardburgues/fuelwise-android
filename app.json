@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Fuelwise",
+    "slug": "fuelwise",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.gerard.fuelwise",
+      "permissions": []
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-sqlite",
+      "react-native-health-connect"
+    ]
+  }
+}
